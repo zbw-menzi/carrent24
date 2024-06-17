@@ -1,0 +1,30 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="601px" height="131px" viewBox="-0.5 -0.5 601 131" content="&lt;mxfile&gt;&lt;diagram id=&quot;r8hGx-olx7rKX_k0jnim&quot; name=&quot;Page-1&quot;&gt;jZLBbsMgDIafhnsS1qm7Luu6yy7LYWcUvIBEQkTdkuzpR4YpiaJJuyD7s43tHxiv++nsxKjerQTDqkJOjL+wqnoqq3AuYI7gUBHonJYRlRk0+hsIFkSvWsJlk4jWGtTjFrZ2GKDFDRPOWb9N+7Jm23UUHexA0wqzp59aoor0eCgyfwPdqdS5LCjSi5RM4KKEtH6F+Inx2lmL0eqnGsyiXdIl1r3+Eb0P5mDA/xQ8xIKbMFfarRYugI+lPk6Ic1rbK43QjKJdfB9elvFnhb0JXhnMfW8a5wYOYVohmuUMtgd0c0hJ0aQLfYwjuT6r/Ji0VGuFOUFBL9vdr87LB4P2T27W+Te2+qz89AM=&lt;/diagram&gt;&lt;diagram id=&quot;D9APJLcDUtXXUEKTnQSU&quot; name=&quot;Page-2&quot;&gt;ddHBDsIgDADQr+HOIDN6nlMvnnbwTEYdJGxdGGbo17sF5iTTCymvhZJCeNH6sxW9uqIEQxiVnvAjYezAdtM6wzNAziM0VstA2QqVfkFEGvWhJQxJoUM0Tvcp1th1ULvEhLU4pmV3NGnXXjSwgaoWZqs3LZ0Kus/p6hfQjVo6ZzRmWrEURxiUkDh+ES8JLyyiC1HrCzDz7Ja5hHOnP9nPwyx07seBKVjvnjbJB/HyDQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="600" height="130" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 598px; height: 1px; padding-top: 65px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Car Rent
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="300" y="69" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Car Rent
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
