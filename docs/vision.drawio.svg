@@ -1,20 +1,131 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="601px" height="131px" viewBox="-0.5 -0.5 601 131" content="&lt;mxfile&gt;&lt;diagram id=&quot;r8hGx-olx7rKX_k0jnim&quot; name=&quot;Page-1&quot;&gt;jZLBbsMgDIafhnsS1qm7Luu6yy7LYWcUvIBEQkTdkuzpR4YpiaJJuyD7s43tHxiv++nsxKjerQTDqkJOjL+wqnoqq3AuYI7gUBHonJYRlRk0+hsIFkSvWsJlk4jWGtTjFrZ2GKDFDRPOWb9N+7Jm23UUHexA0wqzp59aoor0eCgyfwPdqdS5LCjSi5RM4KKEtH6F+Inx2lmL0eqnGsyiXdIl1r3+Eb0P5mDA/xQ8xIKbMFfarRYugI+lPk6Ic1rbK43QjKJdfB9elvFnhb0JXhnMfW8a5wYOYVohmuUMtgd0c0hJ0aQLfYwjuT6r/Ji0VGuFOUFBL9vdr87LB4P2T27W+Te2+qz89AM=&lt;/diagram&gt;&lt;diagram id=&quot;D9APJLcDUtXXUEKTnQSU&quot; name=&quot;Page-2&quot;&gt;ddHBDsIgDADQr+HOIDN6nlMvnnbwTEYdJGxdGGbo17sF5iTTCymvhZJCeNH6sxW9uqIEQxiVnvAjYezAdtM6wzNAziM0VstA2QqVfkFEGvWhJQxJoUM0Tvcp1th1ULvEhLU4pmV3NGnXXjSwgaoWZqs3LZ0Kus/p6hfQjVo6ZzRmWrEURxiUkDh+ES8JLyyiC1HrCzDz7Ja5hHOnP9nPwyx07seBKVjvnjbJB/HyDQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="632px" height="571px" viewBox="-0.5 -0.5 632 571" content="&lt;mxfile&gt;&lt;diagram id=&quot;r8hGx-olx7rKX_k0jnim&quot; name=&quot;Page-1&quot;&gt;7VnbctMwEP2aPNLxJXacR+K0wDAwHQIDPCq2YovYlpGVJuHrWdnrWIrdQKcFWppMO/YerVbSevecXEZumO9eCVKm73hMs5FjxbuROx85ju24Y7goZN8gE3/aAIlgMTp1wIL9oAhaiG5YTCvDUXKeSVaaYMSLgkbSwIgQfGu6rXhmrlqShPaARUSyPvqZxTJt0MCzOvw1ZUnarmxbOJKT1hmBKiUx32qQezlyQ8G5bO7yXUgzlbw2L828q1tGDxsTtJC/MwHzXsl9ezYaw1HRLHgBl1kq8wwsG24hrNh/AcO68FrzqzJbY74zrL1uXVPBciqpQLBZWy146+4RqvhGROiFtSOJSCh6eYfMQclRDmuIPbgImhHJbszoBJ99cvDr0gM3mKHa5MtvqnpgRxmJaApVQsVRgY3fkxzjv90UMW3hj/sSYTh0xYsWn9MqEqyUDKB6uBnIyJJmLeBncKzZihfSeDL+9w1vB15UdU+8BAfbL3fdINwleK2jLDvAw82qbDWDcNzl8QTAmpVNOGY3B8hrgtVHhGDeXJur+7VbEKeC3fW09qnTYpSIZ1wYUUaOG9Wvobme+ViM/Azl4viYjtZPY60SsdW03tIaSQVGYrOVHZMqpTE2xjZlki5KUpf8FjhUTWBZFh4O5lqBezVRLVhJwddUH/Fd2wtxCQ1f1S81IyV1cea7RNHzRTS+KOsihZ3PSMYSVZoRtKBq1Bk0CbmMmcR9l5wVsm4CT1WCogEntOp/VQghYLayEDexiQkiYB+BQ5gzAA6GNNeGP3cmKNQPWdYPoaOdGyok3Z0mnj6l4AS3oRzH2nb077Qkn+rUH1h3ph0wkXluIflWO54QaXt90p78GdLup8v+L9IVPAaNC4n4oPbdU7kFX8ktnAngxb6SND8L3vMQPP2tV1/wBFdvimJsrCFZ0/qurokZidZJPa2VLmzQI/2zLd+eWSdUridkRESt4FqDujn3rKndVzxdPgYV0OlL4JAsHrSqr4vOkFg+CgHVMMdU1ZzfaEkRXBKp2fCJj+o2hXxqJn4w05CHEGULaRM/VTpTqy/S4yGRdu4t0nej0Wsi1qxIPhUZj9YmX54p9dlT6uQfUWoQBuOp/5CUOnH9SeCcKfXJUurhiyuk1HHQp1R7OkCp07/MqG+KaiNIEfXZ8kyoz55QgzOhngn1cRCq5/6aUAe/SLo/oYLZ/a5Qu2q/zriXPwE=&lt;/diagram&gt;&lt;diagram id=&quot;D9APJLcDUtXXUEKTnQSU&quot; name=&quot;Page-2&quot;&gt;ddHBDsIgDADQr+HOIDN6nlMvnnbwTEYdJGxdGGbo17sF5iTTCymvhZJCeNH6sxW9uqIEQxiVnvAjYezAdtM6wzNAziM0VstA2QqVfkFEGvWhJQxJoUM0Tvcp1th1ULvEhLU4pmV3NGnXXjSwgaoWZqs3LZ0Kus/p6hfQjVo6ZzRmWrEURxiUkDh+ES8JLyyiC1HrCzDz7Ja5hHOnP9nPwyx07seBKVjvnjbJB/HyDQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
-        <rect x="0" y="0" width="600" height="130" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 325 180 L 325 283.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 325 288.88 L 321.5 281.88 L 325 283.63 L 328.5 281.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="325" cy="40.5" rx="40.5" ry="40.5" fill="#083f75" stroke="#06315c" pointer-events="all"/>
+        <path d="M 225 105.3 C 225 82.93 243.13 64.8 265.5 64.8 L 384.5 64.8 C 406.87 64.8 425 82.93 425 105.3 L 425 139.5 C 425 161.87 406.87 180 384.5 180 L 265.5 180 C 243.13 180 225 161.87 225 139.5 Z" fill="#083f75" stroke="#06315c" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="325" cy="40.5" rx="40.5" ry="40.5" fill="#083f75" stroke="#06315c" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 598px; height: 1px; padding-top: 65px; margin-left: 1px;">
-                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
-                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                Car Rent
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 122px; margin-left: 226px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 16px">
+                                    <b>
+                                        Kunde
+                                    </b>
+                                </font>
+                                <div>
+                                    [Person]
+                                </div>
+                                <br/>
+                                <div>
+                                    <font style="font-size: 11px">
+                                        <font color="#cccccc"></font>
+                                    </font>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </foreignObject>
-                <text x="300" y="69" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    Car Rent
+                <text x="325" y="126" fill="#ffffff" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Kunde...
+                </text>
+            </switch>
+        </g>
+        <path d="M 218.85 410 L 100.54 476.87" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 95.97 479.45 L 100.35 472.96 L 100.54 476.87 L 103.79 479.05 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 419.62 410 L 524.62 476.59" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 529.06 479.4 L 521.27 478.61 L 524.62 476.59 L 525.02 472.7 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="205" y="290" width="240" height="120" rx="12" ry="12" fill="#1061b0" stroke="#0d5091" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 350px; margin-left: 206px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 16px">
+                                    <b>
+                                        CarRent
+                                    </b>
+                                </font>
+                                <div>
+                                    [Software System]
+                                </div>
+                                <br/>
+                                <div>
+                                    <font style="font-size: 11px">
+                                        <font color="#cccccc"></font>
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="325" y="354" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    CarRent...
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="480" width="190" height="90" rx="9" ry="9" fill="#8c8496" stroke="#736782" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 525px; margin-left: 1px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 16px">
+                                    <b>
+                                        ParkingUnlockSystem
+                                    </b>
+                                </font>
+                                <div>
+                                    [Software System]
+                                </div>
+                                <br/>
+                                <div>
+                                    <font style="font-size: 11px">
+                                        <font color="#cccccc"></font>
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="95" y="529" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ParkingUnlockSystem...
+                </text>
+            </switch>
+        </g>
+        <rect x="430" y="480" width="200" height="90" rx="9" ry="9" fill="#8c8496" stroke="#736782" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 525px; margin-left: 431px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 16px">
+                                    <b>
+                                        Insurance System
+                                    </b>
+                                </font>
+                                <div>
+                                    [Software System]
+                                </div>
+                                <br/>
+                                <div>
+                                    <font style="font-size: 11px">
+                                        <font color="#cccccc"></font>
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="530" y="529" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Insurance System...
                 </text>
             </switch>
         </g>
