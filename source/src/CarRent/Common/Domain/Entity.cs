@@ -1,4 +1,4 @@
-﻿namespace CarRent.Domain.Common
+﻿namespace CarRent.Common.Domain
 {
     using System.Collections.Generic;
 

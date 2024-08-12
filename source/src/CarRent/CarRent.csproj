@@ -11,4 +11,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Feature\Cars\Api\" />
+    <Folder Include="Feature\Cars\Application\" />
+    <Folder Include="Feature\Cars\Infrastructure\" />
+  </ItemGroup>
+
 </Project>

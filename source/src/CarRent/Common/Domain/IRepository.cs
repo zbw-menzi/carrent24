@@ -1,4 +1,4 @@
-﻿namespace CarRent.Domain.Common
+﻿namespace CarRent.Common.Domain
 {
     public interface IRepository<TAggregate>
         where TAggregate : Entity, IAggregateRoot
