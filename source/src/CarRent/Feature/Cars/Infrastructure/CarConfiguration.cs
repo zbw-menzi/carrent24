@@ -14,6 +14,11 @@
             builder.Property(x => x.Name)
                    .HasMaxLength(256);
 
+            builder.HasData(
+                new Car() { Name = "Car 1" },
+                new Car() { Name = "Car 2" },
+                new Car() { Name = "Car 3" }
+            );
             // ...)
         }
     }
