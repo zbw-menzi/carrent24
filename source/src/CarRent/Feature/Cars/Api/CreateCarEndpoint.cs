@@ -27,20 +27,20 @@
 
         public override async Task HandleAsync(CarRequest req, CancellationToken ct)
         {
-            var car = new Car
-            {
-                Name = req.Name
-            };
+            ////var car = new Car
+            ////{
+            ////    Name = req.Name
+            ////};
 
-            _repository.Add(car);
+            ////_repository.Add(car);
 
-            _unitOfWork.CommitChanges();
+            ////_unitOfWork.CommitChanges();
 
-            await SendCreatedAtAsync<GetCarByIdEndpoint>(null, new CarResponse
-            {
-                Id = car.Id,
-                Name = car.Name
-            });
+            ////await SendCreatedAtAsync<GetCarByIdEndpoint>(null, new CarResponse
+            ////{
+            ////    Id = car.Id,
+            ////    Name = car.LicensePlate
+            ////});
         }
     }
 }

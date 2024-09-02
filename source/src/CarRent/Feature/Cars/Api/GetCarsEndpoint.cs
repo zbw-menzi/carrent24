@@ -25,15 +25,15 @@
 
         public override async Task HandleAsync(CancellationToken ct)
         {
-            var cars = _repository.GetCars();
+            ////var cars = _repository.GetCars();
 
-            var response = cars.Select(car => new CarResponse
-            {
-                Id = car.Id,
-                Name = car.Name
-            });
+            ////var response = cars.Select(car => new CarResponse
+            ////{
+            ////    Id = car.Id,
+            ////    Name = car.LicensePlate
+            ////});
 
-            await SendOkAsync(response, ct);
+            ////await SendOkAsync(response, ct);
         }
     }
 }

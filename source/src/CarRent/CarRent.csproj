@@ -16,6 +16,8 @@
 
   <ItemGroup>
     <Folder Include="Feature\Cars\Application\" />
+    <Folder Include="Feature\Contracts\Api\" />
+    <Folder Include="Feature\Customers\Api\" />
   </ItemGroup>
 
 </Project>

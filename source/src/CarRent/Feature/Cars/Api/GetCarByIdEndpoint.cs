@@ -15,6 +15,7 @@
         {
             _repository = repository;
         }
+
         public override void Configure()
         {
             Get("/cars/{id}");
@@ -23,13 +24,13 @@
 
         public override async Task HandleAsync(CancellationToken ct)
         {
-            var carId = Route<Guid>("id");
-            var car = _repository.FindById(carId);
-            await SendAsync(new CarResponse
-            {
-                Id = car.Id,
-                Name = car.Name
-            }, StatusCodes.Status200OK, ct);
+            ////var carId = Route<Guid>("id");
+            ////var car = _repository.FindById(carId);
+            ////await SendAsync(new CarResponse
+            ////{
+            ////    Id = car.Id,
+            ////    Name = car.LicensePlate
+            ////}, StatusCodes.Status200OK, ct);
         }
     }
 }

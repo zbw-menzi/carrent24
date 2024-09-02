@@ -11,15 +11,12 @@
         {
             builder.HasKey(x => x.Id);
 
-            builder.Property(x => x.Name)
+            builder.Property(x => x.LicensePlate)
+                   .HasConversion(
+                        convertFromProviderExpression: x => LicensePlate.Create(x),
+                        convertToProviderExpression: x => x.Value
+                    )
                    .HasMaxLength(256);
-
-            builder.HasData(
-                new Car() { Name = "Car 1" },
-                new Car() { Name = "Car 2" },
-                new Car() { Name = "Car 3" }
-            );
-            // ...)
         }
     }
 }
